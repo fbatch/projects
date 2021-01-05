@@ -1,0 +1,22 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+    text-align: center;
+  }
+   
+   
+  p, 
+  li {
+    font-size: 20px;
+    text-align: left;
+  }
+   
+   
+  a {
+    color: blue;
+    text-decoration: none;
+  }
